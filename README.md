@@ -1,4 +1,4 @@
-# Lista de exercícios com pthread 
+# Lista de exercícios com pthread (2020.1)
 Atividade desenvolvida para a disciplina de Infraestrutura de Software - CIn-UFPE
 
 Equipe:
